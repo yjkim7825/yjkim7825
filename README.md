@@ -47,7 +47,6 @@ IT융합전공 학생이자, **"비즈니스 문제를 기술로 해결하는 �
 
 **자격증**
 
-![빅데이터분석기사](https://img.shields.io/badge/빅데이터분석기사-필기%20합격-blue)
 ![정보처리기사](https://img.shields.io/badge/정보처리기사-취득-blue)
 ![ADsP](https://img.shields.io/badge/ADsP-준전문가-blue)
 ![SQLD](https://img.shields.io/badge/SQLD-SQL%20Developer-blue)
