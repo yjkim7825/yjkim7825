@@ -6,16 +6,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-[![weekly-monthly-public](https://github-readme-stats.vercel.app/api/pin/?username=yjkim7825&repo=weekly-monthly-public&description_lines_count=3)](https://github.com/yjkim7825/weekly-monthly-public)
-[![El-Link-public](https://github-readme-stats.vercel.app/api/pin/?username=yjkim7825&repo=El-Link-public&description_lines_count=3)](https://github.com/yjkim7825/El-Link-public)
-
-[![OStock](https://github-readme-stats.vercel.app/api/pin/?username=yjkim7825&repo=OStock&description_lines_count=3)](https://github.com/yjkim7825/OStock)
-[![PoUMind](https://github-readme-stats.vercel.app/api/pin/?username=yjkim7825&repo=PoUMind&description_lines_count=3)](https://github.com/yjkim7825/PoUMind)
-
----
-
 ## ⚡ Quick Overview
 
 | 항목 | 내용 |
